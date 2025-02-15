@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "236223688965",
+    "project_id": "corry-cicd-test",
+    "storage_bucket": "corry-cicd-test.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236223688965:android:e2f22c7afa4fce74f2876c",
+        "android_client_info": {
+          "package_name": "com.example.practice_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxnFl-kD8m_w7F2VUPfZSxsM0uRLOHYp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
